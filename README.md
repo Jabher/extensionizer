@@ -1,6 +1,8 @@
 # Extensionizer
 ## A module for writing cross-browser extensions
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MetaMask/extensionizer.svg)](https://greenkeeper.io/)
+
 Most browsers (other than Safari) have implemented the [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) API for writing browser extensions.
 
 Unfortunately, they've often hidden that common API under a variety of differently named global objects.
